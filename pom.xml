@@ -27,6 +27,41 @@
     </dependency>
   </dependencies>
 
+  <developers>
+    <developer>
+      <id>deepak</id>
+      <name>DEEPAK SINGH S</name>
+      <email>sdeepaksingh3005@gmail.com</email>
+      <roles>
+        <role>Team Leader</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>boomi</id>
+      <name>BOOMI BALAGAN V</name>
+      <email>boomibalagan6536@gmail.com</email>
+      <roles>
+        <role>Team Member</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>gokula</id>
+      <name>GOKULA KRISHNAN J</name>
+      <email>gokulajkp885@gmail.com</email>
+      <roles>
+        <role>Team Member</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>kavi</id>
+      <name>KAVI S</name>
+      <email>kaviselvarajmbbs@gmail.com</email>
+      <roles>
+        <role>Team Member</role>
+      </roles>
+    </developer>
+  </developers>
+
   <build>
     <plugins>
       <plugin>
